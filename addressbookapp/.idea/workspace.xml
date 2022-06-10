@@ -6,10 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="f60e639d-c394-4227-be28-11e45074d038" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_24.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/addressbookapp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addressbookapp/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/addressbookapp/src/main/java/com/bridgelabz/addressbookapp/controller/AddressBookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/addressbookapp/src/main/java/com/bridgelabz/addressbookapp/controller/AddressBookController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/addressbookapp/src/main/java/com/bridgelabz/addressbookapp/dto/AddressBookDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/addressbookapp/src/main/java/com/bridgelabz/addressbookapp/dto/AddressBookDTO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -77,5 +79,16 @@
       <updated>1654875942645</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
