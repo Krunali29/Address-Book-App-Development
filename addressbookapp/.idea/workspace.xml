@@ -10,6 +10,7 @@
       <change beforePath="$PROJECT_DIR$/addressbookapp/src/main/resources/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/addressbookapp/src/main/resources/application-dev.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/addressbookapp/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/addressbookapp/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application.log" beforeDir="false" afterPath="$PROJECT_DIR$/application.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addressbookapp/src/main/java/com/bridgelabz/addressbookapp/AddressBookAppApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/addressbookapp/src/main/java/com/bridgelabz/addressbookapp/AddressBookAppApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
