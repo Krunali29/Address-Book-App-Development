@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f60e639d-c394-4227-be28-11e45074d038" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/addressbookapp/src/main/java/com/bridgelabz/addressbookapp/AddressBookAppApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/addressbookapp/src/main/java/com/bridgelabz/addressbookapp/AddressBookAppApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addressbookapp/src/main/resources/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/addressbookapp/src/main/resources/application-dev.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/addressbookapp/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/addressbookapp/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application.log" beforeDir="false" afterPath="$PROJECT_DIR$/application.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +50,11 @@
   </component>
   <component name="RunManager">
     <configuration name="AddressBookAppApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="db_url" value="jdbc:mysql://127.0.0.1:3306/addressbookapp" />
+        <env name="db_username" value="root" />
+        <env name="db_password" value="Krunali29!" />
+      </envs>
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.addressbookapp.AddressBookAppApplication" />
       <module name="addressbookapp" />
       <extension name="coverage">
