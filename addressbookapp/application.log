@@ -66,3 +66,24 @@ Action:
 
 Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
 
+2022-06-11 01:00:33.531 [INFO] [restartedMain] [c.b.a.AddressBookAppApplication:55] Starting AddressBookAppApplication using Java 17.0.2 on LAPTOP-7535D7BF with PID 9208 (D:\Java SE Development Kit 17.0.2\JetBrains\CFP Projects\Address Book App Development\addressbookapp\addressbookapp\target\classes started by HP in D:\Java SE Development Kit 17.0.2\JetBrains\CFP Projects\Address Book App Development\addressbookapp)
+2022-06-11 01:00:33.531 [DEBUG] [restartedMain] [c.b.a.AddressBookAppApplication:56] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-11 01:00:33.531 [INFO] [restartedMain] [c.b.a.AddressBookAppApplication:640] The following 1 profile is active: "DEV"
+2022-06-11 01:00:35.963 [WARN] [restartedMain] [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-06-11 01:00:36.291 [INFO] [restartedMain] [c.b.a.AddressBookAppApplication:61] Started AddressBookAppApplication in 3.155 seconds (JVM running for 3.626)
+2022-06-11 01:00:36.291 [INFO] [restartedMain] [c.b.a.AddressBookAppApplication:16] AddressBook App Started in DEV Environment
+2022-06-11 01:00:36.306 [INFO] [restartedMain] [c.b.a.AddressBookAppApplication:17] AddressBook App started
+2022-06-11 01:11:56.641 [INFO] [restartedMain] [c.b.a.AddressBookAppApplication:55] Starting AddressBookAppApplication using Java 17.0.2 on LAPTOP-7535D7BF with PID 15212 (D:\Java SE Development Kit 17.0.2\JetBrains\CFP Projects\Address Book App Development\addressbookapp\addressbookapp\target\classes started by HP in D:\Java SE Development Kit 17.0.2\JetBrains\CFP Projects\Address Book App Development\addressbookapp)
+2022-06-11 01:11:56.641 [DEBUG] [restartedMain] [c.b.a.AddressBookAppApplication:56] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-11 01:11:56.641 [INFO] [restartedMain] [c.b.a.AddressBookAppApplication:640] The following 1 profile is active: "DEV"
+2022-06-11 01:11:59.501 [WARN] [restartedMain] [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-06-11 01:11:59.891 [INFO] [restartedMain] [c.b.a.AddressBookAppApplication:61] Started AddressBookAppApplication in 3.745 seconds (JVM running for 4.31)
+2022-06-11 01:11:59.891 [INFO] [restartedMain] [c.b.a.AddressBookAppApplication:16] AddressBook App Started in DEV Environment
+2022-06-11 01:11:59.891 [INFO] [restartedMain] [c.b.a.AddressBookAppApplication:17] AddressBook App started
+2022-06-11 17:09:05.222 [INFO] [restartedMain] [c.b.a.AddressBookAppApplication:55] Starting AddressBookAppApplication using Java 17.0.2 on LAPTOP-7535D7BF with PID 15160 (D:\Java SE Development Kit 17.0.2\JetBrains\CFP Projects\Address Book App Development\addressbookapp\addressbookapp\target\classes started by HP in D:\Java SE Development Kit 17.0.2\JetBrains\CFP Projects\Address Book App Development\addressbookapp)
+2022-06-11 17:09:05.223 [DEBUG] [restartedMain] [c.b.a.AddressBookAppApplication:56] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-11 17:09:05.224 [INFO] [restartedMain] [c.b.a.AddressBookAppApplication:640] The following 1 profile is active: "DEV"
+2022-06-11 17:09:07.596 [WARN] [restartedMain] [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-06-11 17:09:07.892 [INFO] [restartedMain] [c.b.a.AddressBookAppApplication:61] Started AddressBookAppApplication in 2.993 seconds (JVM running for 3.446)
+2022-06-11 17:09:07.895 [INFO] [restartedMain] [c.b.a.AddressBookAppApplication:16] AddressBook App Started in DEV Environment
+2022-06-11 17:09:07.896 [INFO] [restartedMain] [c.b.a.AddressBookAppApplication:17] AddressBook App started
